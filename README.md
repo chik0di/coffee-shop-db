@@ -22,7 +22,7 @@ In this scenario, I worked with data from the following sources:
 PostgreSQL 
 MySQL
 
-## What did I do? 
+## Tasks
 - Identify entities
 - Identity attributes
 - Create an entity relationship diagram (ERD) using the pgAdmin ERD tool
