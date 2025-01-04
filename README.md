@@ -1,5 +1,5 @@
 # Project: The Coffee Shop Database Design & Implementation
-
+ 
 ## Backstory
 A New York based coffee shop chain that is looking to expand nationally by opening a number of franchise locations. As part of their expansion process, they want to streamline operations and revamp their data infrastructure.
 
