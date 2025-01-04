@@ -21,7 +21,7 @@ In this scenario, I worked with data from the following sources:
 ## Tools and Technologies
 PostgreSQL, pgAdmin
 
-MySQL, phpMyAdmin
+MySQL, phpMyAdmin 
 
 ## Tasks
 - Identify entities
