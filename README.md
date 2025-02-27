@@ -1,4 +1,4 @@
-# Project: The Coffee Shop Database Design & Implementation
+## Project: The Coffee Shop Database Design & Implementation
   
 ## Backstory
 A New York based coffee shop chain that is looking to expand nationally by opening a number of franchise locations. As part of their expansion process, they want to streamline operations and revamp their data infrastructure.
@@ -16,7 +16,7 @@ In this scenario, I worked with data from the following sources:
 - Customer data output as a CSV file from a custom customer relationship management system
 - Product information maintained in a spreadsheet exported from your supplier's database
 
-  The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
+The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
 
 ## Tools and Technologies 
 PostgreSQL, pgAdmin
