@@ -28,7 +28,6 @@ The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/co
 - Normalize Tables – Ensure an efficient, scalable design
 - Define Keys & Relationships – Establish primary keys, foreign keys, and constraints
 - Create Database Objects – Generate and execute SQL scripts from the ERD tool
-- Create & Export Views – Extract relevant subsets of data
 - Create & Export Materialized Views – Optimize query performance for reporting
 - Import Data into MySQL – Use phpMyAdmin to stage data in a MySQL database
 
