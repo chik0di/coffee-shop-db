@@ -4,7 +4,7 @@
 A New York-based coffee shop chain is expanding nationally and needs a robust, centralized database to streamline operations and support data-driven decision-making. Currently, their data is fragmented across multiple systems, including accounting software, supplier databases, point-of-sale (POS) systems, and spreadsheets.
 
 My task is to design and implement a relational database system that consolidates this data, improves operational efficiency, and provides executives with actionable insights. This involves reviewing existing data sources, designing a comprehensive database schema, creating database objects, loading data, and exporting subsets for use in different relational database management systems (RDBMS). 
- 
+
 ## Data Sources
 The project integrates data from multiple sources:
 
