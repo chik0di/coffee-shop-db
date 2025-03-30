@@ -18,7 +18,7 @@ The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/co
 
 ## Tools and Technologies 
 
-- PostgreSQL & pgAdmin (for database design and implementation)
+- PostgreSQL via pgAdmin (for database design and implementation)
 - MySQL & phpMyAdmin (for importing and managing data)
 
 ## Key Tasks
