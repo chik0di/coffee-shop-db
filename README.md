@@ -1,11 +1,16 @@
 <h1 align="Center">The Coffee Shop Database Design & Implementation </h1>
 
+![Coffee Brewing Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2loeDY3aWM5YjZyc3Y4cGY5dTdtd3piaGYxdzloZzdydnVndGw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufe34jLiGEOqyM8/giphy.gif)
+
+
 
 A New York-based coffee shop chain is expanding nationally and needs a robust, centralized database to streamline operations and support data-driven decision-making. Currently, their data is fragmented across multiple systems, including accounting software, supplier databases, point-of-sale (POS) systems, and spreadsheets.
 
 My task is to design and implement a relational database system that consolidates this data, improves operational efficiency, and provides executives with actionable insights. This involves reviewing existing data sources, designing a comprehensive database schema, creating database objects, loading data, and exporting subsets for use in different relational database management systems (RDBMS). 
 
-## Data Sources 
+
+<h2 align="Center">Data Sources</h2>
+
 The project integrates data from multiple sources:
 
 - Staff Information – Stored in a spreadsheet at headquarters
@@ -16,18 +21,17 @@ The project integrates data from multiple sources:
 
 The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
 
-## Tools and Technologies 
+<h2 align="Center">Tools and Technologies </h2> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="100" alt="PostgreSQL" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" alt="MySQL" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" alt="MySQL" />
           
 
-
-- PostgreSQL via pgAdmin (for database design and implementation)
-- MySQL & phpMyAdmin (for importing and managing data)
-
-## Key Tasks
+<h2 align="Center">Key Tasks</h2>
 
 - Identify Entities & Attributes – Define core data elements and their relationships
 - Create an Entity-Relationship Diagram (ERD) – Use the pgAdmin ERD tool to model the database structure
