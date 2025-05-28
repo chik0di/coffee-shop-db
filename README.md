@@ -32,3 +32,10 @@ The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/co
 - Import Data into MySQL – Use phpMyAdmin to stage data in a MySQL database
 
 This project will enable the coffee shop chain to centralize data management, optimize decision-making, and scale efficiently as it expands nationwide.
+
+<h3 align="right">Assigned By</h3>
+<p align="right">
+  <a href="https://www.coursera.org/account/accomplishments/verify/TG89DJFGV7VD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
+    <img width="100" src="https://img.icons8.com/nolan/64/ibm.png" alt="IBM" />
+  </a>
+</p>
