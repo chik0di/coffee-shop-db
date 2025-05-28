@@ -1,6 +1,6 @@
-## Project: The Coffee Shop Database Design & Implementation
-  
-## Overview
+<h1 align="Center">The Coffee Shop Database Design & Implementation </h1>
+
+
 A New York-based coffee shop chain is expanding nationally and needs a robust, centralized database to streamline operations and support data-driven decision-making. Currently, their data is fragmented across multiple systems, including accounting software, supplier databases, point-of-sale (POS) systems, and spreadsheets.
 
 My task is to design and implement a relational database system that consolidates this data, improves operational efficiency, and provides executives with actionable insights. This involves reviewing existing data sources, designing a comprehensive database schema, creating database objects, loading data, and exporting subsets for use in different relational database management systems (RDBMS). 
@@ -17,6 +17,12 @@ The project integrates data from multiple sources:
 The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
 
 ## Tools and Technologies 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="100" alt="PostgreSQL" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" alt="MySQL" />
+          
+
 
 - PostgreSQL via pgAdmin (for database design and implementation)
 - MySQL & phpMyAdmin (for importing and managing data)
