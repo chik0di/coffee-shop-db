@@ -1,7 +1,9 @@
 <h1 align="Center">The Coffee Shop Database Design & Implementation </h1>
 
-![Coffee Brewing Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2loeDY3aWM5YjZyc3Y4cGY5dTdtd3piaGYxdzloZzdydnVndGw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufe34jLiGEOqyM8/giphy.gif)
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2loeDY3aWM5YjZyc3Y4cGY5dTdtd3piaGYxdzloZzdydnVndGw1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufe34jLiGEOqyM8/giphy.gif" width="400" alt="Coffee Brewing Animation" />
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 
 A New York-based coffee shop chain is expanding nationally and needs a robust, centralized database to streamline operations and support data-driven decision-making. Currently, their data is fragmented across multiple systems, including accounting software, supplier databases, point-of-sale (POS) systems, and spreadsheets.
@@ -21,13 +23,15 @@ The project integrates data from multiple sources:
 
 The Coffee Shop sample data can be retrieved [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/12/beanie-coffee-1113)
 
-<h2 align="Center">Tools and Technologies </h2> 
 
-<p>
+<h2 align="center">Tools and Technologies</h2> 
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" alt="PostgreSQL" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100" alt="MySQL" />
 </p>
+
 
           
 
